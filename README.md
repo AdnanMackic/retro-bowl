@@ -3,7 +3,7 @@
 community-created desktop launcher for playing Retro Bowl web game locally.
 
 
-![Retro Bowl Banner](docs/images/retro-bowl-banner.png)
+[![retrobowl-github](https://github.com/user-attachments/assets/d0bb01ea-bf88-4c28-818a-bb0514ce8ff2)](https://t.me/Retro_Bowl)
 
 ---
 
